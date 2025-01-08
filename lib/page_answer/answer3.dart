@@ -61,9 +61,9 @@ class ProductLayout extends StatelessWidget {
                   mainAxisAlignment: MainAxisAlignment.spaceAround,
                   children: [
                     productCard('Laptop', '999 THB',
-                        'https://i.ytimg.com/vi/raJv1oe1MuQ/hqdefault.jpg'), // Replace with your image path
+                        'https://www.apple.com/newsroom/images/product/mac/standard/Apple_MacBook-Pro_14-16-inch_10182021_big.jpg.large.jpg'), // Replace with your image path
                     productCard('Smartphone', '699 THB',
-                        'https://th-test-11.slatic.net/p/77074ca7258c5645edd0069bab837eb8.jpg'), // Replace with your image path
+                        'https://i.ytimg.com/vi/JkRXhe3KaPE/maxresdefault.jpg'), // Replace with your image path
                   ],
                 ),
                 const SizedBox(height: 20),
@@ -73,9 +73,9 @@ class ProductLayout extends StatelessWidget {
                   mainAxisAlignment: MainAxisAlignment.spaceAround,
                   children: [
                     productCard('Tablet', '499 THB',
-                        'https://files.oaiusercontent.com/file-JPRBzMEVXAjDzrmKxPJ7Vf?se=2025-01-07T10%3A03%3A41Z&sp=r&sv=2024-08-04&sr=b&rscc=max-age%3D604800%2C%20immutable%2C%20private&rscd=attachment%3B%20filename%3D7d645d99-bef7-4969-8c8a-0dbb235cff15.webp&sig=QVDucrBzMx8nFmlooldHbzC6k9rAwSVUqiC2K%2Be2Vgo%3D'), // Replace with your image path
+                        'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTae3h3EBPzD0qzSTJGOfhgHlPSJ5X-akiFrg&s'), // Replace with your image path
                     productCard('Camera', '299 THB',
-                        'https://f.ptcdn.info/476/016/000/1394266999-X77738302-o.jpg'), // Replace with your image path
+                        'https://cdn.mos.cms.futurecdn.net/GXHa4PWwDPx7tGQG9MDQvK-1200-80.jpg'), // Replace with your image path
                   ],
                 ),
               ],
